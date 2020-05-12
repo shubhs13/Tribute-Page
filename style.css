@@ -5,6 +5,11 @@ body{
     color: #EDF5E1;
     
 }
+#tribute-link{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+}
 #tribute-info{
     text-align: left
 }
